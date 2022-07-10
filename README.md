@@ -25,3 +25,5 @@ There were 48 paid Amazon Vine reviews vs. 15663 unpaid reviews.
 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
+The analysis shows that more positive reviews from the paid Vine program when compared to the unpaid reviews, .12% more. In addition, there were 431 times more unpaid reviews, when compared to paid reviews.
+Another benificial analysis would be to compare the number of purchases for the video games with more paid reviews vs. the ones with unpaid reviews.
